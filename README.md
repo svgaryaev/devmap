@@ -75,16 +75,19 @@
 ---
 
 ### Английский язык [&uarr;](#Содержание)
-**Цель** - развить навык свободного чтения на английском языке.
-
 **Зачем** - большинство лучших курсов, справочных и учебных материалов доступно именно на английском языке. Если возникают трудности, то со знанием английского языка выше шансы найти ответ во всемирной паутине. Также если хотите работать в крутой престижной кампании, то без английского никак.
 
-- [ ] Ресурсы (Не обязательно выбирать все ресурсы, выберите или найдите то, что вам больше нравится):
+- Полезные ресурсы:
     - [ ] [Duolingo](https://www.duolingo.com/)
     - [ ] [Lingualeo](https://lingualeo.com/)
     - [ ] [Babadum](https://babadum.com/)
-    - [ ] [Anki](http://ankisrs.net/) программа для облегчения запоминания слов
-    - [ ] [Medium](https://medium.com/) блог-платформа, читать и писать статьи
+    - [ ] [Anki](http://ankisrs.net/) и карточки [4000 Essential English Words (all books) [en-en] M4R4M](https://ankiweb.net/shared/info/1898344648)
+    - [ ] [Techrocks](https://techrocks.ru) очень много статей переведенных с английского
+    - [ ] [English e-Reader](https://english-e-reader.net/) адаптированные книги на английском
+    - [ ] [British council](https://learnenglish.britishcouncil.org/) очень много полезной и структурированной информации для изучения
+    - [ ] [Jazz chants](http://www.onestopenglish.com/skills/listening/jazz-chants/mp3-files-and-recording-scripts/) тренировка темпа и скорости речи, чтобы звучать более естественно
+    - [ ] [Engoo Daily news](https://engoo.com/app/daily-news) статьи на английском с разбивкой по уровням
+    - [ ] [YouGlish](https://youglish.com) поиск произношения слова или короткой фразы в Youtube
 
 ---
 
@@ -100,11 +103,11 @@
 **Цель** - понять как работают операционные системы. Научиться базовому администрированию.
 
 - [ ] Ресурсы:
-    - [ ] [Курс: Bash: Основы командной строки (Hexlet)](https://ru.hexlet.io/courses/bash)
+    - [ ] [Курс: Bash: Основы командной строки (Hexlet)](https://ru.hexlet.io/courses/bash?ref=62000)
     - [ ] [Статья: Искусство командной строки (статья)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
-    - [ ] [Статья: Руководство по установке Debian GNU/Linux](https://www.debian.org/releases/stable/i386/index.html.ru)
     - [ ] [Книга: Операционная система UNIX (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)](http://www.ozon.ru/context/detail/id/2419365/)
     - [ ] [Книга: Руководство администратора Linux (Эви Немет, Гарт Снайдер, Трент Р. Хейн)](https://www.ozon.ru/context/detail/id/7607778/)
+    - [ ] [Книга: Advanced Programming in the UNIX Environment (Richard Stevens)](https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739)
 
 ---
 
@@ -129,6 +132,8 @@
 - [ ] Книги:
     - [ ] [Совершенный код (Стив Макконнелл) глава 12 Основные типы данных](http://www.ozon.ru/context/detail/id/5508646/)
     - [ ] [Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)](http://www.ozon.ru/context/detail/id/5322055/)
+    - [ ] [Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих(Адитья Бхаргава)](https://www.ozon.ru/context/detail/id/139296295/)
+
 
 ---
 
@@ -222,7 +227,7 @@
     - [ ] [HTTP ответ](http://citforum.ru/internet/cgi_tut/spns.shtml)
 
 - [ ] Курс:
-    - [ ] [Протокол HTTP (Hexlet)](https://ru.hexlet.io/courses/http_protocol)
+    - [ ] [Протокол HTTP (Hexlet)](https://ru.hexlet.io/courses/http_protocol?ref=62000)
 
 ---
 
@@ -293,9 +298,14 @@
     - [ ] [Алгоритмы и структуры данных поиска. Лекции и курсы от Яндекса (habrahabr)](https://habrahabr.ru/company/yandex/blog/208716/)
     - [ ] [Алгоритм Дейкстры. Поиск оптимальных маршрутов на графе (habrahabr)](https://habrahabr.ru/post/111361/)
 
-- [ ] Книга:
+- [ ] Книги:
     - [ ] [Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (Адитья Бхаргава)](https://www.ozon.ru/context/detail/id/139296295/)
     - [ ] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
+
+- [ ] Ресурсы:
+    - [ ] [HackerRank](https://www.hackerrank.com/)
+    - [ ] [Codewars](https://www.codewars.com/)
+    - [ ] [LeetCode](https://leetcode.com/)
 
 ---
 
@@ -387,8 +397,8 @@
     - [ ] [Полнотекстовый поиск и его возможности (habrahabr)](https://habrahabr.ru/post/40218/)
 
 - [ ] Курсы:
-    - [ ] [Базы данных: SQL (DDL/DML) (Hexlet)](https://ru.hexlet.io/courses/postgresql-ddl)
-    - [ ] [Базы данных: SQL (DQL) (Hexlet)](https://ru.hexlet.io/courses/sql-dql)
+    - [ ] [Базы данных: SQL (DDL/DML) (Hexlet)](https://ru.hexlet.io/courses/postgresql-ddl?ref=62000)
+    - [ ] [Базы данных: SQL (DQL) (Hexlet)](https://ru.hexlet.io/courses/sql-dql?ref=62000)
 
 ---
 
@@ -591,7 +601,7 @@
 Существуют разные фреймворки, не нужно изучать всё сразу, необходимо взять несколько фреймворков за основу.
 
 Список фреймворков:
-- [ ] [AngularJS](https://angular.io/)
+- [ ] [Angular](https://angular.io/)
 - [ ] [Vue - создание интерактивных интерфейсов](http://vuejs.org/)
 - [ ] [Backbone](http://backbonejs.org/)
 - [ ] [Ember](http://emberjs.com/)
